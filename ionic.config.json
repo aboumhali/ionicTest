@@ -1,0 +1,8 @@
+{
+  "name": "sistest",
+  "app_id": "554342e5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
